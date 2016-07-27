@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "845e4fa4-29dc-8c44-ad8a-01a0b220b586" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "845e4fa4-29dc-8c44-ad8a-01a0b220b586" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C63E5AC9-6AF5-4C9B-93C1-8B271DADD639",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "845e4fa4-29dc-8c44-ad8a-01a0b220b586" : "product\/lcwang\/swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MomentMemory",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MomentMemory.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.9\/svn\/swift",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "845e4fa4-29dc-8c44-ad8a-01a0b220b586"
+    }
+  ]
+}
